@@ -16,7 +16,7 @@ def modulo(a,b):
 def potencia(a,b):
     print(a ** b) 
     
-def divicion_entera(a,b):
+def division_entera(a,b):
   print(a // b) 
 
     
