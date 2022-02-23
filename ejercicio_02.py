@@ -1,7 +1,4 @@
-def repetir_cadena(n,m):
+def calcular_litro_por_hora(tiempo_de_ciclismo):
+  print (0.5*tiempo_de_ciclismo)
 
- print(n*m)
- 
- 
- repetir_cadena(10, "x")
- 
+calcular_litro_por_hora(6)
